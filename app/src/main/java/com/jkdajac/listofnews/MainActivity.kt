@@ -211,8 +211,6 @@ class MainActivity : AppCompatActivity() {
         ))
 
 
-
-
         return profiles
 
     }
